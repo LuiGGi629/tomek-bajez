@@ -90,3 +90,6 @@ target/
 
 # exclude virtulenv from source control
 venv/
+
+# exclude snippets from source control
+notebooks/snippet.py
